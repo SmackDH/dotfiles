@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mattiaswelamsson@gmail.com
+	name = Mattias Velamsson
